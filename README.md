@@ -3,3 +3,10 @@
 
 ## Depends on:
 https://github.com/C-Chads/tinygl
+
+## Instructions
+`mkdir /home/renderer && mkdir /home/renderer/renders/ && mkdir /home/renderer/renders/avatar && mkdir /home/renderer/renders/headshots `
+
+build & copy executable elf file to /home/renderer
+
+deploy in it cheapest vps you can find
